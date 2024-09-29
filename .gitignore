@@ -18,6 +18,7 @@ lerna-debug.log*
 # Tests
 /coverage
 /.nyc_output
+/.jetclient
 
 # IDEs and editors
 /.idea
